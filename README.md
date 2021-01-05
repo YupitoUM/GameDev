@@ -4,6 +4,14 @@
 
 *Add your comment below*
 
+## Game Engine: Unity* 
+
+Due to better support for 2D games
+<br>
+Better community and tutorials
+<br>
+**Not final decision yet**
+
 ## Game Type: Advanture
 
 Character able to explore in a 2D world and have goals to complete.
