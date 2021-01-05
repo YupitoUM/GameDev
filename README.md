@@ -11,6 +11,10 @@ Due to better support for 2D games
 <br>
 Better community and tutorials
 <br>
+Faster development cycle and build times
+<br>
+Unity Ads for extremely easy and effective monetization
+<br>
 **Not final decision yet**
 <br>
 Cost associated: basically free for our concern
