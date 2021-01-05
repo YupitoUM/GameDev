@@ -12,6 +12,8 @@ Due to better support for 2D games
 Better community and tutorials
 <br>
 **Not final decision yet**
+<br>
+Cost associated: basically free for our concern
 
 ## Game Type: Advanture
 
