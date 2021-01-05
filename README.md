@@ -8,7 +8,7 @@
 
 Character able to explore in a 2D world and have goals to complete.
 <br>
-Character able to pick up items.
+Character able to push & pull items.
 
 ## Game Mechanism: Levels with save points
 
